@@ -24,8 +24,8 @@ Before this, I obtained a Ph.D. from the School of Computer Science at Peking Un
 My research interest includes Autonomous Driving and Embodied Intelligence. 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. 
-- *2023.02*: &nbsp;🎉🎉 One paper is accepted by RA-L. 
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. 
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by RA-L. 
 
 # 📝 Publications 
 
