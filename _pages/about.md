@@ -24,6 +24,8 @@ Before this, I obtained a Ph.D. from the School of Computer Science at Peking Un
 My research interest includes Autonomous Driving and Embodied Intelligence. 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Selected for the CCF IV Youth Incentive Program.
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by CIVS 2024 as Outstanding Candidate Paper Award. 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IV 2024. 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by RA-L & IROS 2024.
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by TIV.
@@ -71,7 +73,8 @@ My research interest includes Autonomous Driving and Embodied Intelligence.
 - Occupancy prediction; 3D pre-training. 
 
 # 🎖 Honors and Awards
-- *2024.10* CCF Intelligent Vehicle Association Youth Incentive Program.
+- *2024.10* CIVS 2024 Outstanding Candidate Paper Award.
+- *2024.10* CCF IV Youth Incentive Program.
 - *2021.10* Champion of Group D3 and Third Place in Group C1 in the Autonomous Vehicle Challenge. 
 
 # 📖 Educations
