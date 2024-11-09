@@ -17,20 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Researcher at Institute of Computing Technology (ICT), Chinese Academy of Sciences, and I am a Postdoctoral Fellow with Prof. [Yu Hu]([https://meridiancas.github.io/]). 
+I am currently an Assistant Researcher at Institute of Computing Technology (ICT), Chinese Academy of Sciences, and I am a Postdoctoral Fellow with Prof. [Yu Hu](https://meridiancas.github.io/). 
 
-Before this, I obtained a Ph.D. from the School of Computer Science at Peking University in 2024, under the supervision of Prof. Bin Dai. I obtained my Master's degree from the School of Computer Science at Beijing Jiaotong University in 2020, under the supervision of Prof. [Liping Jing]([https://faculty.bjtu.edu.cn/8249/]). I obtained my Bachelor's degree in Energy and Power Engineering from Xi'an Jiaotong University in 2016. 
+Before this, I obtained a Ph.D. from the School of Computer Science at Peking University in 2024, under the supervision of Prof. Bin Dai. I obtained my Master's degree from the School of Computer Science at Beijing Jiaotong University in 2020, under the supervision of Prof. [Liping Jing](https://faculty.bjtu.edu.cn/8249/). I obtained my Bachelor's degree in Energy and Power Engineering from Xi'an Jiaotong University in 2016. 
 
 My research interest includes Autonomous Driving and Embodied Intelligence. 
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. 
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by RA-L. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving]([https://openaccess.thecvf.com/content/CVPR2024/html/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.html])
 
