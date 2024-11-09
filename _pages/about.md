@@ -30,26 +30,19 @@ My research interest includes Autonomous Driving and Embodied Intelligence.
 
 # 📝 Publications 
 
-[DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving]([https://openaccess.thecvf.com/content/CVPR2024/html/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.html])
+CVPR 2024 [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2024/html/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.html)
 
 **Chen Min**, Dawei Zhao, Liang Xiao, Jian Zhao, Xinli Xu, Zheng Zhu, Lei Jin, Jianshu Li, Yulan Guo, Junliang Xing, Liping Jing, Yiming Nie, Bin Dai
 
 - World Models.
-- 4D pre-training. 
-</div>
-</div>
+- 4D pre-training.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-Camera Unified Pre-Training Via 3D Scene Reconstruction for Autonomous Driving]([https://ieeexplore.ieee.org/abstract/document/10423224])
+RA-L 2024 [Multi-Camera Unified Pre-Training Via 3D Scene Reconstruction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10423224)
 
 **Chen Min**, Liang Xiao, Dawei Zhao, Yiming Nie, Bin Dai
 
 - Occupancy prediction.
 - 3D pre-training. 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Champion of Group D3 and Third Place in Group C1 in the Autonomous Vehicle Challenge. 
