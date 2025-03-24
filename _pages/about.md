@@ -24,6 +24,7 @@ Before this, I obtained a Ph.D. from the School of Computer Science at Peking Un
 My research interest includes Autonomous Driving and Embodied Intelligence. 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Selected for the Member of the Professional Committee on Visual Perception Intelligent Systems, China Society of Image and Graphics
 - *2024.10*: &nbsp;🎉🎉 Selected for the CCF IV Youth Incentive Program.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by CIVS 2024 as Outstanding Candidate Paper Award. 
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IV 2024.
