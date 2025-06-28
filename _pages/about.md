@@ -24,9 +24,10 @@ Before this, I obtained a Ph.D. from the School of Computer Science at Peking Un
 My research interest includes Autonomous Driving and Embodied Intelligence. 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted by TITS.
 - *2025.03*: &nbsp;🎉🎉 Selected for the Member of the Professional Committee on Visual Perception Intelligent Systems, China Society of Image and Graphics
 - *2024.10*: &nbsp;🎉🎉 Selected for the CCF IV Youth Incentive Program.
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by CIVS 2024 as Outstanding Candidate Paper Award. 
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IV 2024.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by RA-L & IROS 2024.
@@ -37,6 +38,13 @@ My research interest includes Autonomous Driving and Embodied Intelligence.
 - *2021.02*: &nbsp;🎉🎉 One paper is accepted RA-L. 
 
 # 📝 Publications 
+**ICCV 2025 VLR-Driver: Large Vision-Language-Reasoning Models for Embodied Autonomous Driving** [ICCV](XX)
+
+- Fanjie Kong, Yitong Li, Weihuang Chen, **Chen Min**, Yizhe Li, Zhiqiang Gao, Haoyang Li, Zhongyu Guo, Hongbin Sun
+
+**TITS Efficient Distillation Using Channel Pruning for Point Cloud-Based 3D Object Detection** [TITS](https://ieeexplore.ieee.org/abstract/document/11034662/)
+
+- Fuyang Li, **Chen Min**, Juan Wang, Liang Xiao, Dawei Zhao, Yiming Nie, Bin Dai
 
 **Arxiv 2024 WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction** [Arxiv](https://arxiv.org/abs/2410.15792)
 
