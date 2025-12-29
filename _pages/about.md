@@ -29,6 +29,7 @@ My research interest includes Autonomous Driving and Embodied Intelligence.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by IROS 2025 (4D Radar Perception).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025 (VLM for Autonomous Driving).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by TITS (Model Compression for LiDAR Perception).
+- *2025.01*: &nbsp;🎉🎉 Associate Editor for IROS 2025.
 - *2024.10*: &nbsp;🎉🎉 Selected for the CCF IV Youth Incentive Program.
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IV 2024 (Model Compression for LiDAR Perception).
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 (World Model for Autonomous Driving). 
