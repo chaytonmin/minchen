@@ -24,9 +24,11 @@ Before this, I obtained a Ph.D. from the School of Computer Science at Peking Un
 My research interest includes Autonomous Driving and Embodied Intelligence. 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by TITS.
-- *2025.03*: &nbsp;🎉🎉 Selected for the Member of the Professional Committee on Visual Perception Intelligent Systems, China Society of Image and Graphics
+- *2025.12*: &nbsp;🎉🎉 One survey paper is accepted by JFR.
+- *2025.08*: &nbsp;🎉🎉 Selected for the Member of the Professional Committee on Visual Perception Intelligent Systems, China Society of Image and Graphics.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IROS 2025.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TITS.
 - *2024.10*: &nbsp;🎉🎉 Selected for the CCF IV Youth Incentive Program.
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IV 2024.
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. 
@@ -38,45 +40,43 @@ My research interest includes Autonomous Driving and Embodied Intelligence.
 - *2021.02*: &nbsp;🎉🎉 One paper is accepted RA-L. 
 
 # 📝 Publications 
-**ICCV 2025 VLR-Driver: Large Vision-Language-Reasoning Models for Embodied Autonomous Driving** [ICCV](XX)
+**JFR 2025**Autonomous Driving in Unstructured Environments: How Far Have We Come?** [Arxiv](https://arxiv.org/abs/2410.07701) [Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)
+- **Chen Min**, Shubin Si, Xu Wang, Hanzhang Xue, Dawei Zhao, Liang Xiao, Yiming Nie, Yu Hu, Xuelong Li, etc.
+
+- Comprehensive survey about Autonomous Driving in Unstructured Outdoor Environments.
+**ICCV 2025:** **VLR-Driver: Large Vision-Language-Reasoning Models for Embodied Autonomous Driving** [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Kong_VLR-Driver_Large_Vision-Language-Reasoning_Models_for_Embodied_Autonomous_Driving_ICCV_2025_paper.html)
 
 - Fanjie Kong, Yitong Li, Weihuang Chen, **Chen Min**, Yizhe Li, Zhiqiang Gao, Haoyang Li, Zhongyu Guo, Hongbin Sun
 
-**TITS Efficient Distillation Using Channel Pruning for Point Cloud-Based 3D Object Detection** [TITS](https://ieeexplore.ieee.org/abstract/document/11034662/)
+**TITS:** **Efficient Distillation Using Channel Pruning for Point Cloud-Based 3D Object Detection** [TITS](https://ieeexplore.ieee.org/abstract/document/11034662/)
 
 - Fuyang Li, **Chen Min**, Juan Wang, Liang Xiao, Dawei Zhao, Yiming Nie, Bin Dai
 
-**Arxiv 2024 WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction** [Arxiv](https://arxiv.org/abs/2410.15792)
+**Arxiv 2024:** **WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction** [Arxiv](https://arxiv.org/abs/2410.15792)
 
 - Heng Zhai, Jilin Mei, **Chen Min**, Liang Chen, Fangzhou Zhao, Yu Hu
 
 - Off-Road 3D Semantic Occupancy Prediction.
 
-**Arxiv 2024 Autonomous Driving in Unstructured Environments: How Far Have We Come?** [Arxiv](https://arxiv.org/abs/2410.07701) [Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)
-
-- **Chen Min**, Shubin Si, Xu Wang, Hanzhang Xue, Dawei Zhao, Liang Xiao, Yiming Nie, Yu Hu, Xuelong Li, etc.
-
-- Comprehensive survey about Autonomous Driving in Unstructured Outdoor Environments.
-
-**Arxiv 2024 Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond** [Arxiv](https://arxiv.org/abs/2405.03520) [Code](https://github.com/GigaAI-research/General-World-Models-Survey)
+**Arxiv 2024:** **Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond** [Arxiv](https://arxiv.org/abs/2405.03520) [Code](https://github.com/GigaAI-research/General-World-Models-Survey)
 
 - Zheng Zhu, Xiaofeng Wang, Wangbo Zhao, **Chen Min**, Nianchen Deng, Min Dou, Yuqi Wang, Botian Shi, Kai Wang, Chi Zhang, Yang You, Zhaoxiang Zhang, Dawei Zhao, Liang Xiao, Jian Zhao, Jiwen Lu, Guan Huang
 
 - Comprehensive survey about General World Models.
   
-**IV 2024 Pre-pruned Distillation for Point Cloud-based 3D Object Detection** [Arxiv](https://ieeexplore.ieee.org/abstract/document/10588400/) [Code]()
+**IV 2024:** **Pre-pruned Distillation for Point Cloud-based 3D Object Detection** [Arxiv](https://ieeexplore.ieee.org/abstract/document/10588400/) [Code]()
 
 - Fuyang Li, **Chen Min**, Liang Xiao, Dawei Zhao, Shubin Si, Hanzhang Xue, Yiming Nie, Bin Dai
 
 - Model compression for 3D LiDAR perception.
 
-**CVPR 2024 DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving** [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.html)
+**CVPR 2024:** **DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving** [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.html)
 
 - **Chen Min**, Dawei Zhao, Liang Xiao, Jian Zhao, Xinli Xu, Zheng Zhu, Lei Jin, Jianshu Li, Yulan Guo, Junliang Xing, Liping Jing, Yiming Nie, Bin Dai
 
 - World Models; 4D pre-training; Autonomous Driving
 
-**RA-L 2024 Multi-Camera Unified Pre-Training Via 3D Scene Reconstruction for Autonomous Driving** [Paper](https://ieeexplore.ieee.org/abstract/document/10423224) [Code](https://github.com/chaytonmin/UniScene)
+**RA-L 2024:** **Multi-Camera Unified Pre-Training Via 3D Scene Reconstruction for Autonomous Driving** [Paper](https://ieeexplore.ieee.org/abstract/document/10423224) [Code](https://github.com/chaytonmin/UniScene)
 
 - **Chen Min**, Liang Xiao, Dawei Zhao, Yiming Nie, Bin Dai
 
