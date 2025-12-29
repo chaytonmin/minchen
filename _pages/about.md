@@ -24,26 +24,34 @@ Before this, I obtained a Ph.D. from the School of Computer Science at Peking Un
 My research interest includes Autonomous Driving and Embodied Intelligence. 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 One survey paper is accepted by JFR.
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by JFR (Survey for Off-Road Autonomous Driving).
 - *2025.08*: &nbsp;🎉🎉 Selected for the Member of the Professional Committee on Visual Perception Intelligent Systems, China Society of Image and Graphics.
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IROS 2025.
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TITS.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IROS 2025 (4D Radar Perception).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025 (VLM for Autonomous Driving).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TITS (Model Compression for LiDAR Perception).
 - *2024.10*: &nbsp;🎉🎉 Selected for the CCF IV Youth Incentive Program.
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IV 2024.
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. 
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by RA-L & IROS 2024.
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by TIV.
-- *2022.05*: &nbsp;🎉🎉 One paper is accepted ICRA 2022.
-- *2022.04*: &nbsp;🎉🎉 One paper is accepted TVCG.
-- *2021.10*: &nbsp;🎉🎉 One paper is accepted ICCV 2021. 
-- *2021.02*: &nbsp;🎉🎉 One paper is accepted RA-L. 
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IV 2024 (Model Compression for LiDAR Perception).
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 (World Model for Autonomous Driving). 
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by RA-L & IROS 2024 (Pre-training for Autonomous Driving).
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by TIV (Pre-training for Autonomous Driving).
+- *2022.05*: &nbsp;🎉🎉 One paper is accepted ICRA 2022 (Dataset for Off-Road Autonomous Driving).
+- *2022.04*: &nbsp;🎉🎉 One paper is accepted TVCG (MVS-based 3D Resconstruction).
+- *2021.10*: &nbsp;🎉🎉 One paper is accepted ICCV 2021 (MVS-based 3D Resconstruction). 
+- *2021.02*: &nbsp;🎉🎉 One paper is accepted RA-L (Parking for Autonomous Driving). 
 
 # 📝 Publications 
-**JFR 2025:**Autonomous Driving in Unstructured Environments: How Far Have We Come?** [Arxiv](https://arxiv.org/abs/2410.07701) [Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)
+**JFR 2025:** **Autonomous Driving in Unstructured Environments: How Far Have We Come?** [Arxiv](https://arxiv.org/abs/2410.07701) [Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)
+
 - **Chen Min**, Shubin Si, Xu Wang, Hanzhang Xue, Dawei Zhao, Liang Xiao, Yiming Nie, Yu Hu, Xuelong Li, etc.
 
 - Comprehensive survey about Autonomous Driving in Unstructured Outdoor Environments.
+
+**IROS 2025: 2 **CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving** [Arxiv](https://arxiv.org/abs/2508.13485).
+
+- Fuyang Liu, Jilin Mei, Fangyuan Mao, **Chen Min**, Yan Xing, Yu Hu.
+
+- 4D Radar Denoising Network for Autonomous Driving.
+  
 **ICCV 2025:** **VLR-Driver: Large Vision-Language-Reasoning Models for Embodied Autonomous Driving** [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Kong_VLR-Driver_Large_Vision-Language-Reasoning_Models_for_Embodied_Autonomous_Driving_ICCV_2025_paper.html)
 
 - Fanjie Kong, Yitong Li, Weihuang Chen, **Chen Min**, Yizhe Li, Zhiqiang Gao, Haoyang Li, Zhongyu Guo, Hongbin Sun
