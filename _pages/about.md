@@ -46,7 +46,7 @@ My research interest includes Autonomous Driving and Embodied Intelligence.
 
 - Comprehensive survey about Autonomous Driving in Unstructured Outdoor Environments.
 
-**IROS 2025: 2 **CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving** [Arxiv](https://arxiv.org/abs/2508.13485).
+**IROS 2025:** **CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving** [Arxiv](https://arxiv.org/abs/2508.13485).
 
 - Fuyang Liu, Jilin Mei, Fangyuan Mao, **Chen Min**, Yan Xing, Yu Hu.
 
