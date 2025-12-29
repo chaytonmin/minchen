@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Researcher at Institute of Computing Technology (ICT), Chinese Academy of Sciences, and I am a Postdoctoral Fellow with Prof. [Yu Hu](https://meridiancas.github.io/). 
+I am currently an Assistant Researcher at Institute of Computing Technology (ICT), Chinese Academy of Sciences. 
 
 Before this, I obtained a Ph.D. from the School of Computer Science at Peking University in 2024, under the supervision of Prof. Bin Dai. I obtained my Master's degree from the School of Computer Science at Beijing Jiaotong University in 2020, under the supervision of Prof. [Liping Jing](https://faculty.bjtu.edu.cn/8249/). I obtained my Bachelor's degree in Energy and Power Engineering from Xi'an Jiaotong University in 2016. 
 
