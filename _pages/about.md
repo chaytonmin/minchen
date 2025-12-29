@@ -40,7 +40,7 @@ My research interest includes Autonomous Driving and Embodied Intelligence.
 - *2021.02*: &nbsp;🎉🎉 One paper is accepted RA-L. 
 
 # 📝 Publications 
-**JFR 2025**Autonomous Driving in Unstructured Environments: How Far Have We Come?** [Arxiv](https://arxiv.org/abs/2410.07701) [Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)
+**JFR 2025:**Autonomous Driving in Unstructured Environments: How Far Have We Come?** [Arxiv](https://arxiv.org/abs/2410.07701) [Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)
 - **Chen Min**, Shubin Si, Xu Wang, Hanzhang Xue, Dawei Zhao, Liang Xiao, Yiming Nie, Yu Hu, Xuelong Li, etc.
 
 - Comprehensive survey about Autonomous Driving in Unstructured Outdoor Environments.
