@@ -21,7 +21,7 @@ I am currently an Assistant Researcher at Institute of Computing Technology (ICT
 
 Before this, I obtained a Ph.D. from the School of Computer Science at Peking University in 2024, under the supervision of Prof. Bin Dai. I obtained my Master's degree from the School of Computer Science at Beijing Jiaotong University in 2020, under the supervision of Prof. [Liping Jing](https://faculty.bjtu.edu.cn/8249/). I obtained my Bachelor's degree in Energy and Power Engineering from Xi'an Jiaotong University in 2016. 
 
-My research interest includes Autonomous Driving and Embodied Intelligence. 
+My research interest includes Autonomous Driving and Embodied Intelligence. Email:mincheng@ict.ac.cn.
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by JFR (Survey for Off-Road Autonomous Driving).
