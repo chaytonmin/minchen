@@ -24,6 +24,8 @@ Before this, I obtained a Ph.D. from the School of Computer Science at Peking Un
 My research interest includes Autonomous Driving and Embodied Intelligence. Email:mincheng@ict.ac.cn.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by ICRA 2026 (ORAD-3D: Dataset for Off-Road Autonomous Driving).
+- *2026.01*: &nbsp;🎉🎉 Associate Editor for IROS 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by JFR (Survey for Off-Road Autonomous Driving).
 - *2025.08*: &nbsp;🎉🎉 Selected for the Member of the Professional Committee on Visual Perception Intelligent Systems, China Society of Image and Graphics.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by IROS 2025 (4D Radar Perception).
